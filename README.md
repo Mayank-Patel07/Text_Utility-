@@ -1,6 +1,9 @@
 # Live Link 
 https://textutils-react-app-text-manipulate.netlify.app/
 
+# Portfolio link
+https://portfolio0070.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
